@@ -1,0 +1,10 @@
+ <!-- res/drawable/circular_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+android:shape="oval">
+<solid android:color="#905666CD"/> <!-- Цвет фона, может быть прозрачным -->
+
+<!-- Граница (border) -->
+<!--<stroke-->
+<!--    android:width="10dp"-->
+<!--    android:color="#1D3EB6"/>-->
+</shape>
